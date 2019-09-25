@@ -91,7 +91,7 @@
                             </i>
                             <p>
                                 <span>{{ trans('cruds.clientManagementSetting.title') }}</span>
-                                <i class="right fa fa-fw fa-angle-left"></i>
+                                <i class="right fa fa-fw fa-angle-right"></i>
                             </p>
                         </a>
                         <ul class="nav nav-treeview">
@@ -166,7 +166,7 @@
                             </i>
                             <p>
                                 <span>{{ trans('cruds.userManagement.title') }}</span>
-                                <i class="right fa fa-fw fa-angle-left"></i>
+                                <i class="right fa fa-fw fa-angle-right"></i>
                             </p>
                         </a>
                         <ul class="nav nav-treeview">
